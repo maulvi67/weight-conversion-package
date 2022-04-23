@@ -1,16 +1,16 @@
 {
-    "name": ":vendor_slug/:package_slug",
-    "description": ":package_description",
+    "name": "maulvi67/weight-conversion-package",
+    "description": "This is my package weight-conversion-package",
     "keywords": [
-        ":vendor_name",
-        ":package_slug"
+        "maulvi67",
+        "weight-conversion-package"
     ],
-    "homepage": "https://github.com/:vendor_slug/:package_slug",
+    "homepage": "https://github.com/maulvi67/weight-conversion-package",
     "license": "MIT",
     "authors": [
         {
-            "name": ":author_name",
-            "email": "author@domain.com",
+            "name": "maulvi",
+            "email": "maulvi67@gmail.com",
             "role": "Developer"
         }
     ],
@@ -24,12 +24,12 @@
     },
     "autoload": {
         "psr-4": {
-            "VendorName\\Skeleton\\": "src"
+            "Maulvi67\\WeightConversionPackage\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "VendorName\\Skeleton\\Tests\\": "tests"
+            "Maulvi67\\WeightConversionPackage\\Tests\\": "tests"
         }
     },
     "scripts": {
