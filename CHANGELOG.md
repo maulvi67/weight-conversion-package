@@ -2,6 +2,10 @@
 
 All notable changes to `weight-conversion-package` will be documented in this file.
 
+## 1.1.1 - 2022-04-23
+
+- this is dummy changelog to test workflow
+
 ## 1.1.0 - 2022-04-23
 
 - Add `toSones`
